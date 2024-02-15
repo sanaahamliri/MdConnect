@@ -492,7 +492,7 @@
                                 <th>name</th>
                                 <th>speciality</th>
                                 <th>price</th>
-                                <th>Actions</th>
+                                <th>Actionss</th>
                             </tr>
                         </thead>
                         <tbody>
