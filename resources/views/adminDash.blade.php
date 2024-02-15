@@ -485,8 +485,8 @@
                         </div>
                     </div>
                     <table class="table table-striped table-hover">
-                        <thead>
-                            <tr>
+                        <thead> 
+                             <tr>
 
                                 <th>image</th>
                                 <th>name</th>
